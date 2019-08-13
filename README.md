@@ -1,3 +1,5 @@
+https://github.com/google/cssi-labs
+
 # CSSI Curriculum Labs
 
 Welcome to the CSSI Curriculum Labs.
